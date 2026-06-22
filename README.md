@@ -2,7 +2,7 @@
 
 Лендинг закрытого платного сообщества для продвинутых пользователей ИИ — раздел в стиле сайта [glebkudr.com](https://glebkudr.com).
 
-**Живая версия:** https://shao3dnexx.github.io/ai-lab-residency/
+**Живая версия:** https://shao3d.github.io/ai-lab-residency/
 
 ---
 
